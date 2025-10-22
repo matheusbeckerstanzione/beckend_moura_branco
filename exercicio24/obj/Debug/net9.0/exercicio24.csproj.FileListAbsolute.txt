@@ -1,0 +1,14 @@
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\bin\Debug\net9.0\exercicio24.exe
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\bin\Debug\net9.0\exercicio24.deps.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\bin\Debug\net9.0\exercicio24.runtimeconfig.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\bin\Debug\net9.0\exercicio24.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\bin\Debug\net9.0\exercicio24.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\exercicio24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\exercicio24.AssemblyInfoInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\exercicio24.AssemblyInfo.cs
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\exercicio24.csproj.CoreCompileInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\exercicio24.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\refint\exercicio24.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\exercicio24.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\exercicio24.genruntimeconfig.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio24\obj\Debug\net9.0\ref\exercicio24.dll

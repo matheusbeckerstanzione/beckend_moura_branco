@@ -1,0 +1,14 @@
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\bin\Debug\net9.0\exercicio26.exe
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\bin\Debug\net9.0\exercicio26.deps.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\bin\Debug\net9.0\exercicio26.runtimeconfig.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\bin\Debug\net9.0\exercicio26.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\bin\Debug\net9.0\exercicio26.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\exercicio26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\exercicio26.AssemblyInfoInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\exercicio26.AssemblyInfo.cs
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\exercicio26.csproj.CoreCompileInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\exercicio26.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\refint\exercicio26.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\exercicio26.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\exercicio26.genruntimeconfig.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio26\obj\Debug\net9.0\ref\exercicio26.dll
