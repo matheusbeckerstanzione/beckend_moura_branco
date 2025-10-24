@@ -8,11 +8,11 @@
             Console.WriteLine($"Repetição {i}:");
 
             
-            Console.Write("Digite o primeiro número: ");
+            Console.Write($"Digite o primeiro número: ");
             int num1 = int.Parse(Console.ReadLine());
 
            
-            Console.Write("Digite o segundo número: ");
+            Console.Write($"Digite o segundo número: ");
             int num2 = int.Parse(Console.ReadLine());
 
             

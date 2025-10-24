@@ -1,0 +1,15 @@
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\bin\Debug\net9.0\exercicio_pt2_6.exe
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\bin\Debug\net9.0\exercicio_pt2_6.deps.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\bin\Debug\net9.0\exercicio_pt2_6.runtimeconfig.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\bin\Debug\net9.0\exercicio_pt2_6.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\bin\Debug\net9.0\exercicio_pt2_6.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.AssemblyInfoInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.AssemblyInfo.cs
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.csproj.CoreCompileInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.sourcelink.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\refint\exercicio_pt2_6.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\exercicio_pt2_6.genruntimeconfig.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio_pt2_6\obj\Debug\net9.0\ref\exercicio_pt2_6.dll
