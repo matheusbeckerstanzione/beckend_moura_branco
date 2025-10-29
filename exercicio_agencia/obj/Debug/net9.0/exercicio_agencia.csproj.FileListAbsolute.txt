@@ -1,0 +1,15 @@
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\bin\Debug\net9.0\exercicio_agencia.exe
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\bin\Debug\net9.0\exercicio_agencia.deps.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\bin\Debug\net9.0\exercicio_agencia.runtimeconfig.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\bin\Debug\net9.0\exercicio_agencia.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\bin\Debug\net9.0\exercicio_agencia.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.AssemblyInfoInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.AssemblyInfo.cs
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.csproj.CoreCompileInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.sourcelink.json
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\refint\exercicio_agencia.dll
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.pdb
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\exercicio_agencia.genruntimeconfig.cache
+C:\Users\57678175884\Desktop\backend_moura\exercicio_agencia\obj\Debug\net9.0\ref\exercicio_agencia.dll
