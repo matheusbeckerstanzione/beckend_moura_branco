@@ -1,0 +1,15 @@
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\bin\Debug\net9.0\estaticas.exe
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\bin\Debug\net9.0\estaticas.deps.json
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\bin\Debug\net9.0\estaticas.runtimeconfig.json
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\bin\Debug\net9.0\estaticas.dll
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\bin\Debug\net9.0\estaticas.pdb
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.AssemblyInfoInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.AssemblyInfo.cs
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.csproj.CoreCompileInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.sourcelink.json
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.dll
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\refint\estaticas.dll
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.pdb
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\estaticas.genruntimeconfig.cache
+C:\Users\57678175884\Desktop\backend_moura\POO\estaticas\obj\Debug\net9.0\ref\estaticas.dll
