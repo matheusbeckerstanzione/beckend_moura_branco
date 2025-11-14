@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pilares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c72c04a5ad8ced1466c631ce411e41911e08d4e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1d7cd3bc728b9b831546bfd3fca90ca79ae483a")]
 [assembly: System.Reflection.AssemblyProductAttribute("pilares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pilares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

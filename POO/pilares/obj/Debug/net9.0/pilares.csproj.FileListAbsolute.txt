@@ -1,0 +1,15 @@
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\bin\Debug\net9.0\pilares.exe
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\bin\Debug\net9.0\pilares.deps.json
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\bin\Debug\net9.0\pilares.runtimeconfig.json
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\bin\Debug\net9.0\pilares.dll
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\bin\Debug\net9.0\pilares.pdb
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.AssemblyInfoInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.AssemblyInfo.cs
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.csproj.CoreCompileInputs.cache
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.sourcelink.json
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.dll
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\refint\pilares.dll
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.pdb
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\pilares.genruntimeconfig.cache
+C:\Users\57678175884\Desktop\backend_moura\POO\pilares\obj\Debug\net9.0\ref\pilares.dll
