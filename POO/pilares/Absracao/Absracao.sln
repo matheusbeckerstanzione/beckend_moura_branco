@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Absracao", "Absracao.csproj", "{FF0AB0C5-2910-8719-8EE7-028389413023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo", "Exemplo\Exemplo.csproj", "{9183AC1B-BFF1-42DF-4C4B-1A9B7127C619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0AB0C5-2910-8719-8EE7-028389413023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0AB0C5-2910-8719-8EE7-028389413023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0AB0C5-2910-8719-8EE7-028389413023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0AB0C5-2910-8719-8EE7-028389413023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9183AC1B-BFF1-42DF-4C4B-1A9B7127C619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9183AC1B-BFF1-42DF-4C4B-1A9B7127C619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9183AC1B-BFF1-42DF-4C4B-1A9B7127C619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9183AC1B-BFF1-42DF-4C4B-1A9B7127C619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D96CD2D-7B1C-4602-8A76-B5A8C53E7693}
+	EndGlobalSection
+EndGlobal
