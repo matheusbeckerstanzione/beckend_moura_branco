@@ -30,11 +30,11 @@ do
             break;
 
         case 2:
-            Console.WriteLine($"Cadastrar Relatório em desenvolvimento");
+            CadastrarClausula();
             break;
 
         case 3:
-            Console.WriteLine($"Cadastrar Contratos em desenvolvimento");
+            CadastrarContratos();
             break;
 
         case 4:
@@ -42,11 +42,11 @@ do
             break;
 
         case 5:
-            Console.WriteLine($"Listar Relatórios em desenvolvimento");
+            ListarRelatorios();
             break;
 
         case 6:
-            Console.WriteLine($"Listar Contratos em desenvolvimento");
+            ListarContratos();
             break;
 
         case 0:
@@ -84,13 +84,33 @@ void CadastrarFaturas()
     Documentos.Add(fat);
 }
 
-void CadastrarRelatorios()
+void CadastrarClausula()
 {
+    Console.WriteLine($"Digite o nome da Clausula do Relatorio");
+    string rel = Console.ReadLine();
+
+    Console.WriteLine($"Digite o texto do relatorio");
+    string txr = Console.ReadLine();
+
+   
     
+    Relatorio fat = new Relatorio(rel,txr );
+    Documentos.Add(fat);
 }
 
 void CadastrarContratos()
 {
+   Console.WriteLine($"Digite o nome da Clausula do Relatorio");
+    string name = Console.ReadLine();
+
+    Console.WriteLine($"Digite o texto do relatorio");
+    string tcx = Console.ReadLine();
+
+    Contrato contrato = new Contrato(name,tcx );
+
+    
+    Documentos.Add(contrato);
+
     
 }
 
@@ -108,12 +128,26 @@ void ListarFaturas()
 
 void ListarRelatorios()
 {
-    
+     Console.WriteLine($"Listando Relatorios:");
+    foreach (var item in Documentos)
+    {
+        if (item is Relatorio)
+        {
+            item.Imprimir();
+        }
+    }
 }
 
 void ListarContratos()
 {
-    
+     Console.WriteLine($"Listando Contratos:");
+    foreach (var item in Documentos)
+    {
+        if (item is Contrato)
+        {
+            item.Imprimir();
+        }
+    }
 }
 
 
@@ -135,23 +169,23 @@ void ListarContratos()
 
 
 
-// Fatura fatJV = new Fatura();
-// Documentos.Add(fatJV);
+// Fatura fatbecker = new Fatura();
+// Documentos.Add(fatbecker);
 
 // Fatura Ale = new Fatura();
 // Documentos.Add(Ale);
 
 
 
-// Relatorio relJV = new Relatorio();
-// Documentos.Add(relJV);
+// Relatorio relbecker = new Relatorio();
+// Documentos.Add(relbecker);
 
 // Relatorio Alex = new Relatorio();
 // Documentos.Add(Alex);
 
 
-// Contrato conJV = new Contrato();
-// Documentos.Add(conJV);
+// Contrato conbecker = new Contrato();
+// Documentos.Add(conbecker);
 
 // Contrato Edu = new Contrato();
 // Documentos.Add(Edu);
