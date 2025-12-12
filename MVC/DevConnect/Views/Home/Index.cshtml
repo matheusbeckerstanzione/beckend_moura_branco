@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Logo DevConnect";
+}
+
+<link rel="stylesheet" href="~/css/Login.css" />
+
+<h1>Tela principal login - DevConnect</h1>
+    <main>
+        <div>
+            <!--Formulario-->
+            <form class="estilo-formulario">
+                <img src="~/images/logo-devconnect-lg.svg" alt="é uma imagem do logo">
+
+                <!--Criel o campo para o usuario colocar o nome-->
+                <div class="formulario-campos"> 
+                    <label for="">Nome de Usuario:</label>
+                    <input type="text" name="" id="">
+                </div>
+
+                <!--Criel o campo para o usuario colocar a senha-->
+                <div class="formulario-campos"> 
+                    <label for="">Senha:</label>
+                    <input type="password" name="" id="">
+                </div>
+
+                <button type="submit" class="formulario-botao-azul">Entrar</button> <!--Criei um botão para entrar-->
+
+                <p class="text1">ou</p>
+
+                <a href="#">Esqueceu a senha</a>  <!--Criei um botão para quem esqueceu a senha-->
+
+
+            </form> <!--fechamento do for-->
+
+            <!--Fiz a seção cadastro-->
+            <section id="secao-cadastro" class="estilo-formulario">
+                <p>Não tem uma conta? <a asp-controller="Usuario" asp-action="Index">Cadastre-se</a></p>
+            </section> 
+
+
+            <p>obtenha o aplicativo</p>
+
+            <!--Fiz a seção da instalação-->
+            <section id="secao-instalacao">
+                <img src="~/images/app-store.svg" alt="é uma imagem falando da instalação App Store">
+                <img src="~/images/google-play.svg" alt="é uma imagem falando da instalação Play Store">
+            </section> 
+        </div>
+    </main>
+
+
+

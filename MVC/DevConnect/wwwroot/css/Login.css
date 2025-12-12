@@ -1,0 +1,105 @@
+main {
+  
+    min-height: 100vh;/*Estou falando da altura da minha janela*/
+    width: 100%;
+    display: flex; /*Ativei o flex*/
+    justify-content: center;
+    align-items: center;/*Alinhei para o centro*/
+}
+
+/*Estou chamando a div*/
+main>div {
+  
+   
+   width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+
+}
+
+form{
+    background-color: #d1ddf0;
+    display: flex;/*ativei o flex*/
+    flex-direction: column;
+    justify-content: center;/*alinha na direcao do flex, esta alinhando na vertical*/
+    align-items: center;
+    gap: 15px;
+    padding: 5%;
+    
+
+}
+.formulario-campos{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 5px;
+    padding: 3%;
+
+}
+.formulario-botao-azul{
+    width: 100%;
+}
+
+.text1{
+    text-transform: uppercase;
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-preto);
+
+}
+
+form > p {
+    text-transform: uppercase;
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza);
+
+}
+
+form > a, #secao-cadastro > p > a {
+    text-decoration: none;
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-azul);
+}
+
+#secao-cadastro > p {
+    color: var(--cor-preto);
+    font-size: var(--tamanho-fonte-md);
+}
+
+
+
+#secao-cadastro{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+.estilo-formulario{
+   
+    max-width: 342px;
+
+  
+   
+  
+}
+
+main > div > p{
+  
+    color: var(--cor-preto);
+    font-size: var(--tamanho-fonte-sm);
+}
+
+#secao-instalacao{
+   
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+

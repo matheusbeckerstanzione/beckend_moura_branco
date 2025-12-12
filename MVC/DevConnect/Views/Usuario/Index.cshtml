@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = "Logo DevConnect";
+}
+
+<link rel="stylesheet" href="~/css/Cadastro.css" />
+
+<h1>Tela Cadastro</h1>
+    <main>
+        <div>
+        <!--formulario-->
+        <form class="estilo-formulario">
+            <img src=~/images/logo-devconnect-lg.svg" alt="O logo da empresa">
+            <!--CAMPO PARA O USUARIO COLOCAR O NOME PESSOAL-->
+            <div class="formulario-campos">
+                <label for="">Nome e sobrenome</label>
+                <input type="text" name="" id="">
+            </div>
+
+            <!--CAMPO CRIADO PARA O USUARIO COLOCAR O NOME DO PERFIL-->
+            <div class="formulario-campos">
+                <label for="">Nome do usuario</label>
+                <input type="text" name="" id="">
+            </div>
+
+            <!--CAMPO CRIADO PARA O USUARIO COLOCAR O EMAIL-->
+            <div class="formulario-campos">
+                <label for="">E-mail</label>
+                <input type="text" name="" id="">
+            </div>
+
+            <!--CAMPO CRIADO PARA O USUARIO COLOCAR A SENHA-->
+            <div class="formulario-campos">
+                <label for="">Senha</label>
+                <input type="password" name="" id="">
+            </div>
+
+            <div class="formulario-campos">
+                <label id="labell" for="campo-file">Upload</label>
+                <input type="file" id="campo-file">
+            </div>
+
+
+            <button type="submit" class="formulario-botao-azul">Cadastre-se</button>
+
+            <p>Ao se cadastrar, você concorda com o nossos Termos, Politica de Dados e Politica de Cookies.</p>
+
+
+
+        </form>
+
+          <!--Fiz a seção cadastro-->
+          <section id="secao-login" class="estilo-formulario">
+            <p>Não tem uma conta? <a asp-controller="Home" asp-action="Index">Conecte-se</a></p>
+        </section> 
+
+    </div>
+    </main>
