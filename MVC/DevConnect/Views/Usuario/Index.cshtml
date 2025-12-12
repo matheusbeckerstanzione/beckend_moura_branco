@@ -2,41 +2,54 @@
     ViewData["Title"] = "Logo DevConnect";
 }
 
+@model DevConnect.Models.TbUsuario
+
 <link rel="stylesheet" href="~/css/Cadastro.css" />
+
+
+<script>defer
+ let usuarioNovoCadastrado = "@ViewBag.usuarioNovoCadastrado";
+
+ if(usuarioNovoCadastrado == "Nao cadastrado")
+ {
+    alert("Usuario nao cadastrado. Tente novamente.");
+ }
+
+</script>
 
 <h1>Tela Cadastro</h1>
     <main>
         <div>
         <!--formulario-->
-        <form class="estilo-formulario">
+        <form class="estilo-formulario" asp-action = "Index" asp-controller="Usuario" enctype= "multipart/form-data">
             <img src=~/images/logo-devconnect-lg.svg" alt="O logo da empresa">
             <!--CAMPO PARA O USUARIO COLOCAR O NOME PESSOAL-->
             <div class="formulario-campos">
                 <label for="">Nome e sobrenome</label>
-                <input type="text" name="" id="">
+                <input type="text" asp-for="NomeCompleto" id="">
             </div>
 
             <!--CAMPO CRIADO PARA O USUARIO COLOCAR O NOME DO PERFIL-->
             <div class="formulario-campos">
                 <label for="">Nome do usuario</label>
-                <input type="text" name="" id="">
+                <input type="text" asp-for="NomeUsuario" id="">
             </div>
 
             <!--CAMPO CRIADO PARA O USUARIO COLOCAR O EMAIL-->
             <div class="formulario-campos">
                 <label for="">E-mail</label>
-                <input type="text" name="" id="">
+                <input type="text" asp-for="Email" id="">
             </div>
 
             <!--CAMPO CRIADO PARA O USUARIO COLOCAR A SENHA-->
             <div class="formulario-campos">
                 <label for="">Senha</label>
-                <input type="password" name="" id="">
+                <input type="password" asp-for="Senha" id="">
             </div>
 
             <div class="formulario-campos">
                 <label id="labell" for="campo-file">Upload</label>
-                <input type="file" id="campo-file">
+                <input type="file" name= "Imagem" id="campo-file" accept="Image/*">
             </div>
 
 
@@ -50,7 +63,7 @@
 
           <!--Fiz a seção cadastro-->
           <section id="secao-login" class="estilo-formulario">
-            <p>Não tem uma conta? <a asp-controller="Home" asp-action="Index">Conecte-se</a></p>
+            <p>Não tem uma conta? <a asp-controller="Home" asp-action="Index">Conecte-se</a></p>    
         </section> 
 
     </div>
